@@ -1,0 +1,8 @@
+#!/bin/bash
+# Script by Yono Irenk (Kartolo)
+# Keluarga EDY
+# Youtube Aryo Brokolly (https://www.youtube.com/@aryobrokolly)
+
+DOR=/usr/bin
+
+python3 $DOR/orbit.py
